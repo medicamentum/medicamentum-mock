@@ -1,0 +1,15 @@
+{
+  "name": "medicamentum-mock",
+  "version": "1.0.0",
+  "description": "Mock endpoints",
+  "main": "index.js",
+  "scripts": {
+    "mocks" : "mocks-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@mocks-server/main": "^3.2.0"
+  }
+}
